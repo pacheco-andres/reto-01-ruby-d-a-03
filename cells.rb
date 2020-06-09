@@ -7,4 +7,7 @@ class Cell
       puts "Celula muerta!"
     end
   end
+
+  def 
+  end
 end
